@@ -41,10 +41,11 @@ Functionality:
 Authentication: Users can register, log in, and manage their accounts securely.
 Hotel Management: CRUD operations for managing hotel data.
 Translation Services: Backend support for language translation services.
+![Screenshot (376)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/53d0f213-d361-4b71-a4c2-5a8ac0b532f9)
 ![Screenshot (370)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/1d9a664d-6994-4d1c-999b-29ce4ecc2a6a)
 ![Screenshot (371)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/ec51647c-243c-4336-bd09-1edd702d2c9c)
 ![Screenshot (377)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/c0747216-051b-40d3-bd58-a8db03ec4ad6)
-![Screenshot (376)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/53d0f213-d361-4b71-a4c2-5a8ac0b532f9)
+
 
 ![Screenshot (367)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/c1f0e565-919e-4d77-9867-70d9293f4140)
 ![Screenshot (368)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/a634d012-fef8-4e9f-876e-c03ca4ff83c7)

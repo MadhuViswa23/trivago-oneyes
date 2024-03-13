@@ -1,0 +1,116 @@
+
+.more{
+    padding-left:  50px;
+  }
+      .info_guests_rooms{
+        display: none;
+      }
+      .containerForTopCities{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+      }
+      .containerForTopCities img{
+        width: 100%;
+      }
+      .welcome_div{
+        display: none;
+      }
+      .recent_activity{
+        display: none;
+      }
+      .more-container {
+        display: flex;
+        flex-direction: column;
+      }
+      
+      .more {
+        display: flex;
+      }
+      
+      .more1 {
+        flex: 1;
+        overflow: auto;
+      }
+      
+      .more2 {
+        flex: 1;
+      }
+      .more_title1,
+.more_title2 {
+    margin:20px;
+  font-weight: bold;
+}
+.more_body1 {
+  max-width:250px;
+    max-height: 200px; /* Set the maximum height for the container */
+    overflow-y: auto; /* Enable vertical scrolling */
+  }
+  .more_body2 {
+    max-width:250px;
+  
+    max-height: 200px; /* Set the maximum height for the container */
+    overflow-y: auto; /* Enable vertical scrolling */
+  }
+  .more1 {
+    overflow-x: auto; /* Enable horizontal scrolling */
+  }
+  
+  
+
+.more_common {
+  list-style: none;
+  padding: 0;
+}
+
+
+.more_common a {
+  text-decoration: none;
+  color: inherit; /* Inherit the color from the parent element */
+}
+
+/* Optionally, you can style the links when hovered */
+.more_common a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
+.more {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.more1,
+.more2 {
+  flex: 1;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+.more_common {
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .more1,
+  .more2 {
+    width: 100%;
+  }
+}
+.more {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+
+@media (max-width: 1024px) {
+  .more1,
+  .more2 {
+    flex: 1 1 100%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .more1,
+  .more2 {
+    flex: 1 1 50%;
+  }
+}

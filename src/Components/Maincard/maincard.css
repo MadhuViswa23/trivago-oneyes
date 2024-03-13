@@ -1,0 +1,27 @@
+.card-color{
+   background-color:whitesmoke;
+   border-radius: 5px;
+   padding: 50px;
+}
+
+.outline-style:hover{
+   border: none;
+}
+.rotate-effect {
+   overflow: hidden;
+   position: relative;
+}
+
+.rotate-effect:hover img {
+   animation: rotateAnimation 2s linear infinite;
+}
+
+@keyframes rotateAnimation {
+   from {
+       transform: rotate(0deg);
+   }
+   to {
+       transform: rotate(360deg);
+   }
+}
+

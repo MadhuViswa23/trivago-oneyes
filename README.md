@@ -41,8 +41,16 @@ Functionality:
 Authentication: Users can register, log in, and manage their accounts securely.
 Hotel Management: CRUD operations for managing hotel data.
 Translation Services: Backend support for language translation services.
-
+![Screenshot (370)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/1d9a664d-6994-4d1c-999b-29ce4ecc2a6a)
+![Screenshot (371)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/ec51647c-243c-4336-bd09-1edd702d2c9c)
+![Screenshot (367)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/c1f0e565-919e-4d77-9867-70d9293f4140)
+![Screenshot (368)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/a634d012-fef8-4e9f-876e-c03ca4ff83c7)
+![Screenshot (369)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/864f17ba-9561-4939-9dc5-e051c628632f)
 ![Screenshot (335)](https://github.com/MadhuViswa23/versel-trivago/assets/139744636/2cefe18e-9fdf-48c9-a745-54becb3a2c80)
+![Screenshot (374)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/cfd84727-6a94-4e26-a452-91e4dfe57d22)
+![Screenshot (375)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/4e980ad2-01bf-4854-a624-bbcf6ea07ed8)
+![Screenshot (373)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/62bcfe30-936b-4a2f-b79f-af8c641eb311)
+![Screenshot (372)](https://github.com/MadhuViswa23/trivago-oneyes/assets/139744636/ef6d5a01-8af1-4c71-81a7-dffd0ec5558e)
 
 
 ![Screenshot (334)](https://github.com/MadhuViswa23/versel-trivago/assets/139744636/b5476b7d-aef5-463d-a875-016b15a6cdc9)
